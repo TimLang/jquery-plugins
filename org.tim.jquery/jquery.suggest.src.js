@@ -28,7 +28,7 @@ var YourSuggest = window.YourSuggest || {};
         //"提示数量"的样式
         emptyContent: "没有符合条件的数据",
         jsonKey: "result",
-        // YMW_suggestCallback({"result":[["Rhone Valley","0"],["Alsace","0"],["Beaujolais","0"],["Beaujolais Nouveau","0"],["Languedoc","0"],["Rhone Valley","0"],["Bordeaux","0"],["Cotes de Bergerac Moelleux","0"],["Mediterranean","0"],["South France","0"]]})
+        // Your_suggestCallback({"result":[["Rhone Valley","0"],["Alsace","0"],["Beaujolais","0"],["Beaujolais Nouveau","0"],["Languedoc","0"],["Rhone Valley","0"],["Bordeaux","0"],["Cotes de Bergerac Moelleux","0"],["Mediterranean","0"],["South France","0"]]})
         callbackName: "callback",
         //回调函数名
         callbackFn: 'Your_suggestCallback',
