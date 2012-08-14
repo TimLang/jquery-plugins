@@ -2,7 +2,11 @@
 /*************
  * lazy load plugins for images or html source
  * 
- * @author Tim_Lang @since 2011.9
+ * based on jquery 1.4.4
+ * 
+ * @author Tim_Lang 
+ * 
+ * @since 2011.9
  */
 (function ($) {
 

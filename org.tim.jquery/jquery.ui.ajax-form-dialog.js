@@ -1,6 +1,6 @@
 
 /*******************************************************************************
- * based on jquery ui 1.7.3, it's a ajax form dialog.
+ * based on jquery 1.4.4, jquery ui 1.7.3, it's a ajax form dialog.
  * 
  * @author Tim_Lang
  * 

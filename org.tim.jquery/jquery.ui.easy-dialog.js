@@ -1,6 +1,6 @@
 
 /*******************************************************************************
- * based on jquery ui 1.7.3, it's a easy dialog.
+ * based on jquery 1.4.4, jquery ui 1.7.3, it's a easy dialog.
  * 
  * @author Tim_Lang
  * 

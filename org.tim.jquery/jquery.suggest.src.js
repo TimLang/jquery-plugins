@@ -1,6 +1,8 @@
 
 /****
  * 非原创，修改了部分原作者的源码，原作者基于kissy.suggest改成了jquery版本。
+ * 
+ * based on jquery 1.4.4
  */
 var YourSuggest = window.YourSuggest || {};
 

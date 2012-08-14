@@ -1,6 +1,10 @@
 /****
  *  @TODO 可以仿照新浪微博，分页至一定页数后，增加整个页面的分页按钮，不然页面太大会卡死，尤其IE
+ *  
+ *  based on jquery 1.4.4
+ *  
  *  @author Tim_Lang
+ *  
  *  @since 2011.9.27
  */
 (function ($) {
