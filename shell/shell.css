@@ -1,0 +1,22 @@
+
+body {
+  background: #000000;
+}
+
+.homeshell-input {
+  display: inline;
+  color: #00FF00;
+}
+
+.homeshell-line {
+  color: #00FF00;
+}
+
+pre {
+  margin: 0 0;
+  padding: 0 0;
+}
+
+a:visited {
+  color: #0000FF;
+}
